@@ -1,0 +1,10 @@
+#timer{
+    text-align: center;
+    margin: 250px;
+    font-size: 100px;
+    color: rgb(160, 141, 179)
+}
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(15deg, rgba(2,0,36,1) 0%, rgba(78,12,144,1) 34%, rgba(51,25,117,1) 62%, rgba(6,7,147,1) 100%);
+}
